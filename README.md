@@ -1,3 +1,9 @@
-# Drawing_Canvasx-special/nautilus-clipboard
-copy
-file:///home/nathan/Downloads/FireShot/screen%20shot%201.png
+# Drawing Canvas
+
+## Screen Shots
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
