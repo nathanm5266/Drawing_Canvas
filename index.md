@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Drawing Canvas
 
 You can use the [editor on GitHub](https://github.com/nathanm5266/Drawing_Canvas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
